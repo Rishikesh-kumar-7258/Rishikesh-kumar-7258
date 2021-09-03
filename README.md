@@ -1,10 +1,16 @@
-<img src="./Images/Ocean_View.png" alt="Ocean View" >
+<!-- <img src="./Images/Ocean_View.png" alt="Ocean View" > -->
+<img src="./Images/1873.jpg" alt="Space View" >
 
 # Rishikesh Kumar
+<!-- Ocean Exploration 
 Hello, I am a **Programmer**.
 I am have started my journey on the ship of **Computer Science** as a captain from the port of **Guru Ghasidas University**.
 This ship is sailing towards the vast ocean of science and technology.
-I am using engines of **Web Development, Game development and Artificial Intelligence** in this ship. Some engines are good some engines are basic but I am pretty sure I am going to make all the engines powerful such that when the storm comes all of them works in my favour.
+I am using engines of **Web Development, Game development and Artificial Intelligence** in this ship. Some engines are good some engines are basic but I am pretty sure I am going to make all the engines powerful such that when the storm comes all of them works in my favour. -->
+<!-- Space Exploration -->
+Hello, I am an programmer sitting on the spaceship of **Computer Science** as an Astronaut from the **Guru Ghasidas Vishwavidayala** as space station.
+This is spaceship is flying into the vast space of science and technology.
+I am using engines of **Web Development, Game development and Artificial Intelligence** in this spaceship. Some engines are good some engines are basic but I am pretty sure I am going to make all the engines powerful such that when the storm comes all of them works in my favour.
 
 ## Badges
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Rishikesh-kumar-7258)
