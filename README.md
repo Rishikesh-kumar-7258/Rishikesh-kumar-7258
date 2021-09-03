@@ -100,7 +100,7 @@
             width="40" height="40" /> </a> </p>
 
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikesh-kumar-7258&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikesh-kumar-7258&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=15"
         alt="rishikesh-kumar-7258" /></p>
 
 <p>&nbsp;<img align="center"
