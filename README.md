@@ -6,9 +6,10 @@
     are good some engines are basic but I am pretty sure I am going to make all the engines powerful such that when the
     storm comes all of them works in my favour.</h3>
 
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=rishikesh-kumar-7258&label=Profile%20views&color=0e75b6&style=flat"
-        alt="rishikesh-kumar-7258" /> </p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Rishikesh-kumar-7258)
+![Visits Badge](https://badges.pufler.dev/visits/Rishikesh-kumar-7258/Rishikesh-kumar-7258)
+![Years Badge](https://badges.pufler.dev/years/Rishikesh-kumar-7258)
+![Repos Badge](https://badges.pufler.dev/repos/Rishikesh-kumar-7258)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=rishikesh-kumar-7258"
