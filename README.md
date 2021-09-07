@@ -1,6 +1,6 @@
 <img src="Images/1873.jpg" alt="Space Ship">
 <h1 align="center">Hi 👋, I'm Rishikesh Kumar</h1>
-<h3 align="center">I am an programmer sitting on the spaceship of Computer Science as an Astronaut from the Guru
+<h3 align="center">I am a programmer sitting on the spaceship of Computer Science as an Astronaut from the Guru
         Ghasidas Vishwavidayala as space station. This is spaceship is flying into the vast space of science and
         technology.
         I am using engines of Web Development, Game development and Artificial Intelligence in this spaceship. Some
@@ -9,9 +9,10 @@
         the
         storm comes all of them works in my favour.</h3>
 
-<p align="left"> <img
-                src="https://komarev.com/ghpvc/?username=rishikesh-kumar-7258&label=Profile%20views&color=0e75b6&style=flat"
-                alt="rishikesh-kumar-7258" /> </p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Rishikesh-kumar-7258)
+![Visits Badge](https://badges.pufler.dev/visits/Rishikesh-kumar-7258/Rishikesh-kumar-7258)
+![Years Badge](https://badges.pufler.dev/years/Rishikesh-kumar-7258)
+![Repos Badge](https://badges.pufler.dev/repos/Rishikesh-kumar-7258)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
                         src="https://github-profile-trophy.vercel.app/?username=rishikesh-kumar-7258"
@@ -106,7 +107,7 @@
                         alt="sass" width="40" height="40" /> </a> </p>
 
 <p><img align="left"
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikesh-kumar-7258&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikesh-kumar-7258&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=15"
                 alt="rishikesh-kumar-7258" /></p>
 
 <p>&nbsp;<img align="center"
@@ -116,3 +117,5 @@
 <p><img align="center"
                 src="https://github-readme-streak-stats.herokuapp.com/?user=rishikesh-kumar-7258&&theme=tokyonight"
                 alt="rishikesh-kumar-7258" /></p>
+
+![Rishikesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rishikesh-kumar-7258&theme=rogue)
