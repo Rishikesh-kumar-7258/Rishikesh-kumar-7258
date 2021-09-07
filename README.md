@@ -1,6 +1,6 @@
 <img src="Images/1873.jpg" alt="Space Ship">
 <h1 align="center">Hi 👋, I'm Rishikesh Kumar</h1>
-<h3 align="center">I am an programmer sitting on the spaceship of Computer Science as an Astronaut from the Guru
+<h3 align="center">I am a programmer sitting on the spaceship of Computer Science as an Astronaut from the Guru
     Ghasidas Vishwavidayala as space station. This is spaceship is flying into the vast space of science and technology.
     I am using engines of Web Development, Game development and Artificial Intelligence in this spaceship. Some engines
     are good some engines are basic but I am pretty sure I am going to make all the engines powerful such that when the
@@ -110,3 +110,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishikesh-kumar-7258&&theme=tokyonight"
         alt="rishikesh-kumar-7258" /></p>
+![Rishikesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rishikesh-kumar-7258&theme=rogue)
