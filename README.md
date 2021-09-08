@@ -21,7 +21,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
                         src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Block Breaker](https://github.com/Rishikesh-kumar-7258/Block_breaker)
+- 🔭 I’m currently working on [Flappy Bird](https://github.com/Rishikesh-kumar-7258/flappyBird)
 
 - 🌱 I’m currently learning **Game Development, Web Development**
 
