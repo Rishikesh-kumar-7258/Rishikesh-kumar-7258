@@ -104,9 +104,3 @@
                 alt="rishikesh-kumar-7258" /></p>
 
 ![Rishikesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rishikesh-kumar-7258&theme=rogue)
-
-<a href="https://sourcerer.io/Rishikesh-kumar-7258"><img src="https://img.shields.io/badge/C++-325%20commits-blue.svg?style=for-the-badge" alt=""></a>
-<a href="https://sourcerer.io/Rishikesh-kumar-7258"><img src="https://img.shields.io/badge/C-58%20commits-brown.svg?style=for-the-badge" alt=""></a>
-<a href="https://sourcerer.io/Rishikesh-kumar-7258"><img src="https://img.shields.io/badge/Python-306%20commits-orange.svg?style=for-the-badge" alt=""></a>
-<a href="https://sourcerer.io/Rishikesh-kumar-7258"><img src="https://img.shields.io/badge/HTML-138%20commits-green.svg?style=for-the-badge" alt=""></a>
-<a href="https://sourcerer.io/Rishikesh-kumar-7258"><img src="https://img.shields.io/badge/CSS-89%20commits-purple.svg?style=for-the-badge" alt=""></a>
