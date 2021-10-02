@@ -100,8 +100,10 @@
                 src="https://github-readme-stats.vercel.app/api?username=rishikesh-kumar-7258&show_icons=true&locale=en&theme=tokyonight"
                 alt="rishikesh-kumar-7258" /></p>
 
-<p><img align="center"
+<!-- <p><img align="center"
                 src="https://github-readme-streak-stats.herokuapp.com/?user=rishikesh-kumar-7258&&theme=tokyonight"
-                alt="rishikesh-kumar-7258" /></p>
+                alt="rishikesh-kumar-7258" /></p> -->
+
+![Rishikesh's github activity streak](https://github-readme-streak-stats.herokuapp.com/?user=rishikesh-kumar-7258&&theme=tokyonight)
 
 ![Rishikesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rishikesh-kumar-7258&theme=tokyonight)
