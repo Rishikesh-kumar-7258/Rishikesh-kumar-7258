@@ -1,6 +1,6 @@
 <img src="Images/1873.jpg" alt="Space Ship">
 <h1 align="center">Hi 👋, I'm Rishikesh Kumar</h1>
-<h3 align="center">I am a programmer sitting on the spaceship of Computer Science as an Astronaut from the Guru
+<h3 align="center">I am a programmer travelling on the spaceship of Computer Science as an Astronaut from the Guru
         Ghasidas Vishwavidayala as space station. This is spaceship is flying into the vast space of science and
         technology.
         I am using engines of Web Development, Game development and Artificial Intelligence in this spaceship. Some
