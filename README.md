@@ -21,11 +21,11 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
                         src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Flappy Bird](https://github.com/Rishikesh-kumar-7258/flappyBird)
+- 🔭 I’m currently working on [super-mario](https://github.com/Rishikesh-kumar-7258/super-mario)
 
 - 🌱 I’m currently learning **Game Development, Web Development**
 
-- 🤝 I’m looking for help with [Block Breaker](https://github.com/Rishikesh-kumar-7258/flappyBird)
+- 🤝 I’m looking for help with [super mario](https://github.com/Rishikesh-kumar-7258/super-mario)
 
 - 👨‍💻 All of my projects are available at
 [https://rishikesh-kumar-7258.github.io/portfolio_/](https://rishikesh-kumar-7258.github.io/portfolio_/)
@@ -63,7 +63,7 @@
                 <a href="https://www.cprogramming.com/" target="_blank"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
                         width="40" height="40" /> </a> 
-                <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.  githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+                <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
                         alt="cplusplus" width="40" height="40" /> </a> 
                 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
                         alt="css3" width="40" height="40" /> </a>  
