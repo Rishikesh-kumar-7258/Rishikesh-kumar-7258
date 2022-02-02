@@ -28,7 +28,7 @@
 - 🤝 I’m looking for help with [super mario](https://github.com/Rishikesh-kumar-7258/super-mario)
 
 - 👨‍💻 All of my projects are available at
-[https://rishikesh-kumar-7258.github.io/portfolio_/](https://rishikesh-kumar-7258.github.io/portfolio_/)
+[Portfolio](https://rishikesh-kumar-7258.github.io/portfolio_/)
 
 - 💬 Ask me about **React**
 
