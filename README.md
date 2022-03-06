@@ -7,7 +7,7 @@
         engines
         are good some engines are basic but I am pretty sure I am going to make all the engines powerful such that when
         the
-        storm comes all of them works in my favour.</h3>
+        storm comes all of them helps me get pass through it.</h3>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Rishikesh-kumar-7258)
 ![Visits Badge](https://badges.pufler.dev/visits/Rishikesh-kumar-7258/Rishikesh-kumar-7258)
