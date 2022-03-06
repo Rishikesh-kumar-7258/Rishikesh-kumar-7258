@@ -34,7 +34,7 @@
 
 - 📫 How to reach me **rishi7258prince@gmail.com**
 
-- ⚡ Fun fact **I love to watch fantasy and sci-fi shows**
+- ⚡ Fun fact **I love to watch anime and sci-fi shows**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
