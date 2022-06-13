@@ -1,6 +1,8 @@
 <h1 align="center">Welcome</h1>
 <h3 align="left">
-Hello everyone, Myself Rishikesh Kumar. I am pursuing my B-tech from Guru Ghasidas University in the Computer Science branch. I am a full-stack web developer with React and Django. I have some experience in Game Development with python. I am currently learning Machine Learning. 
+Hi,<br>
+I am Rishikesh Kumar. I am from Sheikhpura, Bihar. I am pursuing a Bachelor of Technology in Computer Science and Engineering from Guru Ghasidas Vishwavidyalaya, Bilaspur.<br>
+I am a full-stack web developer specializing in React and Django. I have a good knowledge of C, C++ and python. I have experience in Game development using Pygame in python. I am currently learning Artificial Intelligence and Machine Learning.
 </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
@@ -68,10 +70,6 @@ Hello everyone, Myself Rishikesh Kumar. I am pursuing my B-tech from Guru Ghasid
 <p>&nbsp;<img align="center"
                 src="https://github-readme-stats.vercel.app/api?username=rishikesh-kumar-7258&show_icons=true&locale=en&theme=tokyonight"
                 alt="rishikesh-kumar-7258" /></p>
-
-<!-- <p><img align="center"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=rishikesh-kumar-7258&&theme=tokyonight"
-                alt="rishikesh-kumar-7258" /></p> -->
 
 ![Rishikesh's github activity streak](https://github-readme-streak-stats.herokuapp.com/?user=rishikesh-kumar-7258&&theme=tokyonight)
 
