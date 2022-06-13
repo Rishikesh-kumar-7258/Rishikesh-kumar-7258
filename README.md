@@ -1,11 +1,7 @@
-<h1 align="center">Hi I'm Rishikesh Kumar</h1>
+<h1 align="center">Welcome</h1>
 <h3 align="left">
 Hello everyone, Myself Rishikesh Kumar. I am pursuing my B-tech from Guru Ghasidas University in the Computer Science branch. I am a full-stack web developer with React and Django. I have some experience in Game Development with python. I am currently learning Machine Learning. 
 </h3>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Rishikesh-kumar-7258)
-![Years Badge](https://badges.pufler.dev/years/Rishikesh-kumar-7258)
-![Repos Badge](https://badges.pufler.dev/repos/Rishikesh-kumar-7258)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
                         src="https://github-profile-trophy.vercel.app/?username=rishikesh-kumar-7258"
