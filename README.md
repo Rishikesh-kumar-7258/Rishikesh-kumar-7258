@@ -21,7 +21,7 @@ I am a full-stack web developer specializing in React and Django. I have a good 
         <a href="https://www.hackerrank.com/rishi7258prince" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
                         alt="rishi7258prince" height="30" width="40" /></a>
-        <a href="https://codeforces.com/profile/rishikesh kumar" target="blank"><img align="center"
+        <a href="https://codeforces.com/profile/Rishikesh_kumar" target="blank"><img align="center"
                         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="rishikesh kumar"
                         height="30" width="40" /></a>
         <a href="https://www.leetcode.com/rishikesh7258" target="blank"><img align="center"
