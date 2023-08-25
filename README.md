@@ -2,7 +2,7 @@
 <h3 align="left">
 Hi,<br>
 I am Rishikesh Kumar. I am from Sheikhpura, Bihar. I am pursuing a Bachelor of Technology in Computer Science and Engineering from Guru Ghasidas Vishwavidyalaya, Bilaspur.<br>
-I am a full-stack web developer specializing in React and Django. I have a good knowledge of C, C++ and python. I have experience in Game development using Pygame in python. I am currently learning Artificial Intelligence and Machine Learning.
+I am a full-stack web developer specializing in React and Django. I have a good knowledge of C, C++ and Python. I have experience in Game development using Pygame in Python. I am currently learning Artificial Intelligence and Machine Learning.
 </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
@@ -63,14 +63,3 @@ I am a full-stack web developer specializing in React and Django. I have a good 
                 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
                         alt="sass" width="40" height="40" /> </a> </p>
 
-<p><img align="left"
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikesh-kumar-7258&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=15"
-                alt="rishikesh-kumar-7258" /></p>
-
-<p>&nbsp;<img align="center"
-                src="https://github-readme-stats.vercel.app/api?username=rishikesh-kumar-7258&show_icons=true&locale=en&theme=tokyonight"
-                alt="rishikesh-kumar-7258" /></p>
-
-![Rishikesh's github activity streak](https://github-readme-streak-stats.herokuapp.com/?user=rishikesh-kumar-7258&&theme=tokyonight)
-
-![Rishikesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rishikesh-kumar-7258&theme=tokyonight)
