@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Rishikesh+Kumar+%F0%9F%91%8B;M.Tech+Student+%40+IIT+Bombay;ML+Researcher+%7C+NeurIPS+2024;Full-Stack+%26+Systems+Developer;Game+Dev+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6E57F7&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Rishikesh+Kumar+%F0%9F%91%8B;M.Tech+Student+%40+IIT+Bombay;ML+Researcher;Full-Stack+%26+Systems+Developer;Game+Dev+Enthusiast" alt="Typing SVG" />
 
 <br/>
 
@@ -69,8 +69,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rishikesh-kumar-7258&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikesh-kumar-7258&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rishikesh-kumar-7258&theme=tokyonight" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishikesh-kumar-7258&theme=tokyonight" height="165" />
 
 <br/>
 
