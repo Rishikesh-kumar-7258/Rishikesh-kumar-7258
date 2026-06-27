@@ -20,15 +20,6 @@ architecture, multi-agent intelligence pipelines, and biomedical NLP. Currently 
 IEOR at IIT Bombay, with deep-learning research published internationally. I care about systems that
 hold up under real load, not just demos.
 
-### 💼 Experience
-
-- **Full-Stack Developer Intern — Vajra Labs, IIT Bombay** *(Aug 2025 – Present)*
-  Building a malware-analysis platform handling 200+ daily submissions; leading a 3-person team on a 2-week release cadence.
-- **Software Development Intern — Jumps Automation** *(May 2026 – Jun 2026)*
-  Built **CyberAegis**, a gamified cybersecurity-training platform on an event-driven, microservice architecture, load-tested for 5,000 concurrent users.
-- **Teaching Assistant — IE 643: Deep Learning, IIT Bombay** *(Jul 2025 – Nov 2025)*
-  Ran weekly programming sessions for 80+ students and handled grading and feedback.
-
 ### 🚀 Featured Projects
 
 - **[Vajra Sandbox](https://github.com/Rishikesh-kumar-7258/vajra_sandbox)** — Malware-analysis & threat-detection platform doing static, dynamic, and memory analysis over async Celery workers, with JWT auth and TOTP 2FA. *Handles 200+ daily submissions.*
