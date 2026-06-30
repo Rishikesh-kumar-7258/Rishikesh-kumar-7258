@@ -76,7 +76,7 @@ from research to production.
 
 <div align="center">
 
-### GitHub Stats — आँकड़े
+### GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rishikesh-kumar-7258&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikesh-kumar-7258&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="165" />
